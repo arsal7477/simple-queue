@@ -76,4 +76,6 @@ int main(){
     cout<<q.search(8);
     cout<<endl;
     cout<<q.search(7);
+
+    return 0;
 }
